@@ -1,0 +1,6 @@
+[theme]
+name=SimpleLogin
+description=Simple and clean Webkit Theme
+engine=lightdm-webkit-greeter
+url=index.html
+session=xfce
